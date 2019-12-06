@@ -3,17 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
     "lint": "vue-cli-service lint",
     "commit": "git-cz"
-  },
-  "dependencies": {
-    "core-js": "^3.4.3",
-    "register-service-worker": "^1.6.2",
-    "vue": "^2.6.10"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
@@ -34,8 +27,10 @@
     "lint-staged": "^9.4.3",
     "node-sass": "^4.12.0",
     "prettier": "^1.19.1",
+    "remark-lint": "^6.0.5",
     "sass-loader": "^8.0.0",
     "sort-package-json": "^1.30.0",
+    "textlint": "^11.5.0",
     "vue-template-compiler": "^2.6.10",
     "vuepress": "^1.2.0"
   },
