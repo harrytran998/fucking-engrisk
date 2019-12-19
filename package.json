@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "setup-commit": "node scripts/setup-git-hook.js",
+    "commit": "git-cz"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.2.0",
@@ -32,7 +34,7 @@
   },
   "gitHooks": {
     "pre-commit": "lint-staged",
-    "commit-msg": "node scripts/verifyCommit.js"
+    "commit-msg": "node scripts/verify-commit-msg.js"
   },
   "lint-staged": {
     "*.{js}": [
