@@ -14,31 +14,31 @@ module.exports = {
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
   themeConfig: {
     nav: [
-      {
-        text: 'Versions',
-        items: [
-          {
-            text: 'Version 3.0.0-beta.x',
-            link: '/3.0.0-beta.x/',
-          },
-          {
-            text: 'Version 3.0.0-alpha.x',
-            link: '/3.0.0-alpha.x/',
-          },
-        ],
-      },
-      {
-        text: 'Website',
-        link: 'https://strapi.io',
-      },
-      {
-        text: 'Slack',
-        link: 'https://slack.strapi.io',
-      },
-      {
-        text: 'Blog',
-        link: 'https://blog.strapi.io',
-      },
+      // {
+      //   text: 'Versions',
+      //   items: [
+      //     {
+      //       text: 'Version 3.0.0-beta.x',
+      //       link: '/3.0.0-beta.x/',
+      //     },
+      //     {
+      //       text: 'Version 3.0.0-alpha.x',
+      //       link: '/3.0.0-alpha.x/',
+      //     },
+      //   ],
+      // },
+      // {
+      //   text: 'Website',
+      //   link: 'https://strapi.io',
+      // },
+      // {
+      //   text: 'Slack',
+      //   link: 'https://slack.strapi.io',
+      // },
+      // {
+      //   text: 'Blog',
+      //   link: 'https://blog.strapi.io',
+      // },
     ],
     repo: 'jetaimefrc/fucking-engrisk',
     docsDir: 'docs',
