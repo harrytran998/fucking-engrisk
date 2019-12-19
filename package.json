@@ -9,40 +9,38 @@
     "commit": "git-cz"
   },
   "devDependencies": {
-    "@commitlint/cli": "8.2.0",
-    "@commitlint/config-conventional": "8.2.0",
-    "@vue/cli-plugin-babel": "4.1.1",
-    "@vue/cli-plugin-eslint": "4.1.1",
-    "@vue/cli-plugin-pwa": "4.1.1",
-    "@vue/cli-service": "4.1.1",
-    "@vue/eslint-config-prettier": "5.1.0",
-    "babel-eslint": "10.0.3",
+    "@vuepress/plugin-back-to-top": "^1.2.0",
+    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "@vuepress/plugin-medium-zoom": "^1.2.0",
+    "@vuepress/plugin-pwa": "^1.2.0",
+    "@vuepress/theme-vue": "^1.2.0",
     "commitizen": "4.0.3",
     "conventional-changelog": "3.1.18",
     "cz-conventional-changelog": "3.0.2",
-    "eslint": "5.16.0",
-    "eslint-plugin-prettier": "3.1.2",
-    "eslint-plugin-vue": "5.2.3",
+    "git-cz": "^3.3.0",
     "husky": "3.1.0",
     "lint-staged": "9.5.0",
-    "node-sass": "4.13.0",
     "prettier": "1.19.1",
-    "remark-lint": "6.0.5",
-    "sass-loader": "8.0.0",
+    "pretty-quick": "^2.0.1",
+    "remark-cli": "^7.0.1",
+    "remark-lint": "^6.0.5",
+    "remark-preset-lint-consistent": "^2.0.3",
+    "remark-preset-lint-recommended": "^3.0.3",
     "sort-package-json": "1.30.0",
     "textlint": "11.5.0",
-    "vue-template-compiler": "2.6.10",
     "vuepress": "1.2.0"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/git-cz"
     }
   },
   "lint-staged": {
     "*.{js,vue}": [
-      "eslint --fix",
+      "pretty-quick --staged",
       "git add"
     ]
   }
