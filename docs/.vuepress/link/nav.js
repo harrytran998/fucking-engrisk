@@ -1,10 +1,14 @@
 module.exports = [
   {
-    text: 'Vocs - Truyện chêm',
+    text: 'Từ vựng',
     link: '/vocabulary/',
   },
   {
-    text: 'Grammar',
+    text: 'Ngữ pháp',
     link: '/grammar/',
+  },
+  {
+    text: 'Truyện chêm',
+    link: '/story/',
   },
 ]
