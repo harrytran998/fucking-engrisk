@@ -1,6 +1,8 @@
+const { getGrammarSideBar, getVocsSideBar, getStorySideBar } = require('./link/sideBar')
+
 module.exports = {
-  title: 'Fuck you ENGRISK',
-  description: 'I will kill you man',
+  title: `Let's go ENGRISK 🦄`,
+  description: '💎 are created under fucking pressure',
   plugins: [
     '@vuepress/medium-zoom',
     'vuepress-plugin-element-tabs',
@@ -13,51 +15,25 @@ module.exports = {
   ],
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
   themeConfig: {
-    nav: [
-      // {
-      //   text: 'Versions',
-      //   items: [
-      //     {
-      //       text: 'Version 3.0.0-beta.x',
-      //       link: '/3.0.0-beta.x/',
-      //     },
-      //     {
-      //       text: 'Version 3.0.0-alpha.x',
-      //       link: '/3.0.0-alpha.x/',
-      //     },
-      //   ],
-      // },
-      // {
-      //   text: 'Website',
-      //   link: 'https://strapi.io',
-      // },
-      // {
-      //   text: 'Slack',
-      //   link: 'https://slack.strapi.io',
-      // },
-      // {
-      //   text: 'Blog',
-      //   link: 'https://blog.strapi.io',
-      // },
-    ],
+    editLinks: true,
+    smoothScroll: true,
     repo: 'jetaimefrc/fucking-engrisk',
-    docsDir: 'docs',
+    repoLabel: 'Vào Github',
+    displayAllHeaders: true,
+    searchPlaceholder: 'Tìm kiếm...',
+    lastUpdated: 'Cập nhật cuối cùng',
+    sidebarDepth: 2, // => Cho phép H2 & H3
     algolia: {
       apiKey: '9d04dde5838dbaf6ee31e89678ca6ebc',
       indexName: 'fucking-engrisk',
     },
-    editLinks: true,
-    editLinkText: 'Improve this page',
+    editLinkText: 'Cải thiện trang này',
     serviceWorker: true,
-    sidebarDepth: 1,
+    nav: require('./link/nav'),
     sidebar: {
-      '/vocabulary/': [
-        {
-          collapsable: false,
-          title: '🚀 Getting Started',
-          children: ['/vocabulary/getting-started/introduction'],
-        },
-      ],
+      '/vocabulary/': getVocsSideBar(),
+      '/grammar/': getGrammarSideBar(),
+      '/story/': getStorySideBar(),
     },
   },
 }
