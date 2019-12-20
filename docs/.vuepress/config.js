@@ -12,6 +12,14 @@ module.exports = {
         ga: 'UA-154598962-1',
       },
     ],
+    ['@vuepress/back-to-top', true],
+    [
+      '@vuepress/pwa',
+      {
+        serviceWorker: true,
+        updatePopup: true,
+      },
+    ],
   ],
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
   themeConfig: {
