@@ -20,6 +20,17 @@ module.exports = {
         updatePopup: true,
       },
     ],
+    [
+      'vuepress-plugin-zooming',
+      {
+        selector: '.my-wrapper .my-img',
+        delay: 1000,
+        options: {
+          bgColor: 'black',
+          zIndex: 10000,
+        },
+      },
+    ],
   ],
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
   themeConfig: {
