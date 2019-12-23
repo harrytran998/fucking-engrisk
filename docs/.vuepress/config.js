@@ -34,7 +34,7 @@ module.exports = {
   ],
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
   themeConfig: {
-    editLinks: true,
+    editLinks: false,
     smoothScroll: true,
     repo: 'jetaimefrc/fucking-engrisk',
     repoLabel: 'Vào Github',
