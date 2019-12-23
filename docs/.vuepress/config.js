@@ -42,9 +42,12 @@ module.exports = {
     searchPlaceholder: 'Tìm kiếm...',
     lastUpdated: 'Cập nhật cuối cùng',
     sidebarDepth: 2, // => Cho phép H2 & H3
+    search: true,
+    searchMaxSuggestions: 5,
     algolia: {
       apiKey: '9d04dde5838dbaf6ee31e89678ca6ebc',
       indexName: 'fucking-engrisk',
+      appId: 'ZRY8VIHEMJ',
     },
     editLinkText: 'Cải thiện trang này',
     serviceWorker: true,
