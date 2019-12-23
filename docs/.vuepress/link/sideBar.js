@@ -41,13 +41,13 @@ module.exports = {
     return [
       {
         title: 'Giới thiệu về truyện chêm',
-        collapsable: false,
-        children: [['', 'Giới thiệu về truyện chêm']],
+        collapsable: true,
+        children: [['', 'Truyện chêm là con mẹ gì?']],
       },
       {
-        title: '[V1-Elementary]',
-        collapsable: false,
-        children: ['/story/[V1-Ele]/Unit1'],
+        title: 'Volum 1 - Elementary',
+        collapsable: true,
+        children: ['/story/[V1-E]-U1'],
       },
     ]
   },
