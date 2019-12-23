@@ -34,21 +34,32 @@ footer: MIT Licensed | Copyright © 2020 Harry Tran
 ## Áp dụng frammework để học
 
 Mình có tham khảo rất nhiều các mưu mẹo, chiến lược của các ae đi trước nhưng mình vẫn khoái nhất
-kết hợp 2 phương pháp đó là: **Active Recall Framework** + **The Retrospective Revision Timetable**.
-Một cái là _phương pháp note tài liệu_, 1 cái là _phương pháp ghi nhớ_ chúng. Đây là cách học rất thông minh
+kết hợp 2 phương pháp đó là: **ARF - Active Recall Framework** + **RRT - The Retrospective Revision Timetable**.
+ARF là _phương pháp note tài liệu_, RRT là _phương pháp ghi nhớ_ chúng. Đây là cách học rất thông minh
 được [Ali Abdaal](https://www.youtube.com/user/Sepharoth64) chia sẻ - học sinh **đứng đầu** trường **ĐH Cambridge** trong
 ngành bác sỹ(_lý thuyết vô cùng nhiều_).
 
-::: warning ⚠️ Không dành cho người mới bắt đầu
+::: warning ⚠️ Không dành cho Newbie
 Phương pháp này đòi hỏi phải có sự **tập trung cao độ** + **mục tiêu rõ ràng** thì mới phát huy đc sức mạnh! Newbie thì đi tìm cách khác!
 :::
 
-### 1. Active Recall Framework
+### Chi tiết ARF và RRT
 
-::: tip 💡
-Mình có tham khảo rất nhiều các mưu mẹo, chiến lược của các ae đi trước nhưng mình vẫn khoái nhất
-là phương pháp ``. Nó không chỉ áp được trong mỗi học English mà trong _**MỌI LĨNH VỰC**_
+:::: tabs
+
+::: tab "ARF 📝"
+
+ABC
+
 :::
+
+::: tab "RRT 🧠"
+
+XXXX
+
+:::
+
+::::
 
 Các bạn có thể tham khảo video ở dưới để hiểu thêm về nó:
 
@@ -89,7 +100,7 @@ Các bạn có thể tham khảo video ở dưới để hiểu thêm về nó:
   >
 </iframe>
 
-### Trình độ hiện tại của mình
+### Trình độ Tiếng Anh hiện tại của mình
 
 ```js
 let lastUpdated: '21-12-2019'

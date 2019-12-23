@@ -5,7 +5,7 @@ module.exports = {
   description: '💎 are created under fucking pressure',
   plugins: [
     '@vuepress/medium-zoom',
-    'vuepress-plugin-element-tabs',
+    'element-tabs',
     [
       '@vuepress/google-analytics',
       {
@@ -21,9 +21,9 @@ module.exports = {
       },
     ],
     [
-      'vuepress-plugin-zooming',
+      'zooming',
       {
-        selector: '.my-wrapper .my-img',
+        selector: '.theme-default-content img',
         delay: 1000,
         options: {
           bgColor: 'black',
