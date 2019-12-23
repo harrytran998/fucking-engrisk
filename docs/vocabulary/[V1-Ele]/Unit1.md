@@ -1,7 +1,15 @@
-# Unit 1
+# Unit 4
 
-Hello
+1. **Appropriate** - Adj - [_aprouprieit_]
 
-## Hello
+::: tip Example 🧾
 
-Hello 2
+When a thing is appropriate, it is right or normal.
+
+-> It’s appropriate to wear a suit when you go to the office.
+
+:::
+
+## VIU
+
+Do/Done

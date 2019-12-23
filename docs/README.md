@@ -102,7 +102,7 @@ Các bạn có thể tham khảo video ở dưới để hiểu thêm về nó:
 
 ### Trình độ Tiếng Anh hiện tại của mình
 
-```js
+```js{4,6}
 let lastUpdated: '21-12-2019'
 
 const englishLevel = {
