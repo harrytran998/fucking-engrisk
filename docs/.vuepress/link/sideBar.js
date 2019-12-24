@@ -10,10 +10,10 @@ module.exports = {
         title: 'V1 & E1',
         collapsable: false,
         children: [
-          '/vocabulary/[V1-Ele]/Unit1',
-          '/vocabulary/[V1-Ele]/Unit2',
-          '/vocabulary/[V1-Ele]/Unit3',
-          '/vocabulary/[V1-Ele]/Unit4',
+          '/vocabulary/Vol-1/Unit1',
+          '/vocabulary/Vol-1/Unit2',
+          '/vocabulary/Vol-1/Unit3',
+          '/vocabulary/Vol-1/Unit4',
         ],
       },
     ]
@@ -47,7 +47,7 @@ module.exports = {
       {
         title: 'Volum 1 - Elementary',
         collapsable: true,
-        children: ['/story/[V1-E]-U1'],
+        children: ['/story/elementary/Vol1-Unit1'],
       },
     ]
   },
