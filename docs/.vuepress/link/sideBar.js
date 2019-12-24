@@ -3,12 +3,12 @@ module.exports = {
     return [
       {
         title: 'Introduction',
-        collapsable: false,
+        collapsable: true,
         children: [['', 'Giới thiệu']],
       },
       {
         title: 'V1 & E1',
-        collapsable: false,
+        collapsable: true,
         children: [
           '/vocabulary/Vol-1/Unit1',
           '/vocabulary/Vol-1/Unit2',
@@ -22,17 +22,17 @@ module.exports = {
     return [
       {
         title: 'Introduction Grammar',
-        collapsable: false,
+        collapsable: true,
         children: [['', 'Giới thiệu tổng quát']],
       },
       {
         title: 'Basic thôi',
-        collapsable: false,
+        collapsable: true,
         children: ['/grammar/basic/verbs-tenses'],
       },
       {
         title: 'Nang cao nè',
-        collapsable: false,
+        collapsable: true,
         children: ['/grammar/advanced/test'],
       },
     ]
@@ -48,6 +48,20 @@ module.exports = {
         title: 'Volum 1 - Elementary',
         collapsable: true,
         children: ['/story/elementary/Vol1-Unit1'],
+      },
+    ]
+  },
+  getIdiomSideBar() {
+    return [
+      {
+        title: 'Giới thiệu về Idiom',
+        collapsable: true,
+        children: [['', 'Idiom là ca dao, tục ngữ?']],
+      },
+      {
+        title: 'Idioms',
+        collapsable: true,
+        children: ['/idiom/Part1'],
       },
     ]
   },

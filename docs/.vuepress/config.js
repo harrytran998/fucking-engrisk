@@ -1,4 +1,9 @@
-const { getGrammarSideBar, getVocsSideBar, getStorySideBar } = require('./link/sideBar')
+const {
+  getGrammarSideBar,
+  getVocsSideBar,
+  getStorySideBar,
+  getIdiomSideBar,
+} = require('./link/sideBar')
 
 module.exports = {
   title: `Let's go ENGRISK 🦄`,
@@ -56,6 +61,7 @@ module.exports = {
       '/vocabulary/': getVocsSideBar(),
       '/grammar/': getGrammarSideBar(),
       '/story/': getStorySideBar(),
+      '/idiom/': getIdiomSideBar(),
     },
   },
 }

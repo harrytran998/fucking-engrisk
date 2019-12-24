@@ -11,4 +11,8 @@ module.exports = [
     text: 'Truyện chêm',
     link: '/story/',
   },
+  {
+    text: 'Idioms',
+    link: '/idiom/',
+  },
 ]
