@@ -38,6 +38,15 @@ module.exports = {
     ],
   ],
   head: [['link', { rel: 'icon', href: `/logo.png` }]],
+  markdown: {
+    plugins: {
+      'multimd-table': {
+        multiline: true,
+        rowspan: false,
+        headerless: false,
+      },
+    },
+  },
   themeConfig: {
     editLinks: false,
     smoothScroll: true,
