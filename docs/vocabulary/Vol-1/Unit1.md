@@ -2,19 +2,33 @@
 
 ## 1. **Appropriate** <Badge text="Adj" type="tip"/> <Badge text="əˈproʊ.pri.ət" type="warning"/>
 
-:::: tabs
-
-::: tab "Example 🧾"
+::: tip Chém gió ☃️
 
 The old generation always yells having sex early was not <strong class="meaning">right or reasonable</strong>, but I think making that with my girlfriend is <strong class="keyword">appropriate</strong> 🤨. I agree that having sex without the contraceptive like as a condom is <strong class="antonym">inappropriate</strong>.
 
 :::
 
-::: tab "Synonym Antonym"
+:::: tabs
 
-| Synonym                              |                    Antonym                     |
-| ------------------------------------ | :--------------------------------------------: |
-| <strong class="synonym">...</strong> | <strong class="antonym">inappropriate</strong> |
+::: tab Synonym
+
+...
+
+:::
+
+::: tab Antonym
+
+<strong class="antonym">inappropriate</strong>
+
+:::
+::: tab "Word Family"
+
+| A1                | A2  | B1  | B2  | C1            | C2            | X                 |
+| :---------------- | :-- | :-- | :-- | :------------ | :------------ | :---------------- |
+| appropriate - adj |     |     |     | appropriately | appropriate   | inappropriately   |
+|                   |     |     |     | inappropriate | appropriation | inappropriateness |
+
+:::
 
 ::::
 
