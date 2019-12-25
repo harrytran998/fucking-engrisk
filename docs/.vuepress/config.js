@@ -48,10 +48,11 @@ module.exports = {
     },
   },
   themeConfig: {
-    editLinks: false,
     smoothScroll: true,
-    repo: 'jetaimefrc/fucking-engrisk',
-    repoLabel: 'Vào Github',
+    editLinks: false,
+    // repo: 'jetaimefrc/fucking-engrisk',
+    // repoLabel: 'Vào Github',
+    // editLinkText: 'Cải thiện trang này',
     displayAllHeaders: true,
     searchPlaceholder: 'Tìm kiếm...',
     lastUpdated: 'Cập nhật cuối cùng',
@@ -63,7 +64,6 @@ module.exports = {
       indexName: 'fucking-engrisk',
       appId: 'ZRY8VIHEMJ',
     },
-    editLinkText: 'Cải thiện trang này',
     serviceWorker: true,
     nav: require('./link/nav'),
     sidebar: {
