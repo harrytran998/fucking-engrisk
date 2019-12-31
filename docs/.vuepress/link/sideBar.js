@@ -26,14 +26,34 @@ module.exports = {
         children: [['', 'Giới thiệu tổng quát']],
       },
       {
-        title: 'Basic thôi',
+        title: 'A1',
         collapsable: true,
-        children: ['/grammar/basic/verbs-tenses'],
+        children: ['/grammar/a1/nouns'],
       },
       {
-        title: 'Nang cao nè',
+        title: 'A2',
         collapsable: true,
-        children: ['/grammar/advanced/test'],
+        children: ['/grammar/a2/regular-nouns'],
+      },
+      {
+        title: 'B1',
+        collapsable: true,
+        children: ['/grammar/b1/reflexive-pronouns'],
+      },
+      {
+        title: 'B2',
+        collapsable: true,
+        children: ['/grammar/b2/conjunctions'],
+      },
+      {
+        title: 'C1',
+        collapsable: true,
+        children: ['/grammar/c1/whishes'],
+      },
+      {
+        title: 'C2',
+        collapsable: true,
+        children: ['/grammar/c2/exclamator-sentence'],
       },
     ]
   },
