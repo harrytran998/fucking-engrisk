@@ -23,6 +23,7 @@ The old generation always yells having sex early was not <strong class="meaning"
 :::
 ::: tab "Word Family"
 
+<!-- prettier-ignore -->
 | A1                | A2  | B1  | B2  | C1            | C2            | X                 |
 | :---------------- | :-- | :-- | :-- | :------------ | :------------ | :---------------- |
 | appropriate - adj |     |     |     | appropriately | appropriate   | inappropriately   |
