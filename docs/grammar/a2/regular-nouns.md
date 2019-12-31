@@ -1,0 +1,3 @@
+# DANH TỪ SỐ ÍT VÀ DANH TỪ SỐ NHIỀU CÓ QUY TẮC
+
+REGULAR NOUNS
