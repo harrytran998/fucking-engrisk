@@ -48,7 +48,7 @@ module.exports = {
       {
         title: 'C1',
         collapsable: true,
-        children: ['/grammar/c1/whishes'],
+        children: ['/grammar/c1/wishes'],
       },
       {
         title: 'C2',
