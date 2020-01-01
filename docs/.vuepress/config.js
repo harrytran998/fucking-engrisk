@@ -47,7 +47,7 @@ module.exports = {
     displayAllHeaders: true,
     searchPlaceholder: 'Tìm kiếm...',
     lastUpdated: 'Cập nhật cuối cùng',
-    sidebarDepth: 2,
+    sidebarDepth: 3,
     search: true,
     searchMaxSuggestions: 5,
     algolia: {
