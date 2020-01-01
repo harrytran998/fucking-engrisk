@@ -9,7 +9,6 @@ module.exports = {
   title: `Let's go ENGRISK 🦄`,
   description: '💎 are created under fucking pressure',
   plugins: [
-    '@vuepress/medium-zoom',
     'element-tabs',
     [
       '@vuepress/google-analytics',
@@ -22,17 +21,9 @@ module.exports = {
       '@vuepress/pwa',
       {
         serviceWorker: true,
-        updatePopup: true,
-      },
-    ],
-    [
-      'zooming',
-      {
-        selector: '.theme-default-content img',
-        delay: 1000,
-        options: {
-          bgColor: 'black',
-          zIndex: 10000,
+        updatePopup: {
+          message: 'Nội dung mới đã được cập nhật',
+          buttonText: 'Refresh lại trang',
         },
       },
     ],
@@ -56,7 +47,7 @@ module.exports = {
     displayAllHeaders: true,
     searchPlaceholder: 'Tìm kiếm...',
     lastUpdated: 'Cập nhật cuối cùng',
-    sidebarDepth: 2, // => Cho phép H2 & H3
+    sidebarDepth: 2,
     search: true,
     searchMaxSuggestions: 5,
     algolia: {
