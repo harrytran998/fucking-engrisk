@@ -48,7 +48,7 @@ Hướng này thì mình theo TOEIC - vì là dân văn phòng. Và bắt đầu
 9. Finance & Budgeting(Tài chính vs ngân sách)
 10. Corporate Development(Phát triển doanh nghiệp)
 11. Manufactoring(Sản xuấtxuất)
-12. Housing/PropertProperty(Nhà đất và tài sản doanh nghiệp)
+12. Housing/Property(Nhà đất và tài sản doanh nghiệp)
 13. Heath(Sức khoẻ)
 
 :::
