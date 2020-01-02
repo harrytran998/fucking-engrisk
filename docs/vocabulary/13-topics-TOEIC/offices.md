@@ -2,33 +2,31 @@
 
 ## Unit 1
 
-### 1. **Familliar** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 1. **Familiar** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
-::: tab "Same Sound"
+::: tab Âm thanh tương tự
 
-Same sound
+<strong class="same-sound">Phở mỳ</strong> ăn <strong class="same-sound">liền</strong> là món rất <strong class="keyword">quen thuộc</strong> đối vs người VN, đặc biệt là sinh viên.
 
 :::
 
-::: tab "Ví dụ"
+::: tab Ví dụ lazy
 
 ::: tip Chém gió ☃️
 
-1. The old generation always yells having sex early was not <strong class="meaning">right or reasonable</strong>, but I think making that with my **girlfriend** is <strong class="keyword">appropriate</strong> 🤨. I agree that having sex without the contraceptive like as a condom is <strong class="antonym">inappropriate</strong>.
-
-2. The old generation always yells having sex early was not <strong class="meaning">right or reasonable</strong>, but I think making that with my girlfriend is <strong class="keyword">appropriate</strong> 🤨. I agree that having sex without the contraceptive like as a condom is <strong class="antonym">inappropriate</strong>.
+1. My friend, Phát, he <strong class="meaning">knows</strong> the electronic components <strong class="meaning">very well</strong>. Otherwise, I am <strong class="antonym">unfamiliar</strong> with them. When mentioning them, I felt unlimitedly boring. I realized that if you want to be <strong class="keyword">familiar</strong> with something, you must love it first!
+2. I knew that a lot of the girls in her 20s were <strong class="antonym">unfamiliar</strong> have sex and making satisfy with boyfriends. But, I was looking for a girl <strong class="keyword">familiar</strong> with it! Oh man, you can't imagine how great that would be!!!
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym lazy
 
-<!-- prettier-ignore -->
-| Đồng nghĩa        | Trái nghĩa |
-| :---------------- | :--------- |
-| appropriate - adj |            |
-|                   |            |
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            | unfamiliar |
+|            |            |
 
 :::
 
@@ -38,23 +36,22 @@ Same sound
 
 :::: tabs
 
-::: tab "Same Sound"
+::: tab Âm thanh tương tự
 
-Same sound
-
+Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ <strong class="keyword">thông báo nội bộ</strong> công ty <3. Nhìn chúng rất bắt mắt!
 :::
 
-::: tab "Ví dụ"
+::: tab Ví dụ lazy
 
 ::: tip Chém gió ☃️
 
-1. A
+1. My company's CEO releases <strong class="meaning">an official note</strong> to the staff. This <strong class="keyword">memo</strong> has a new policy about salary, so it was interested in people.
 
-2. B
+2. I was the attention that the people who frequently read the <strong class="keyword">memo</strong> of the company, perhaps they love it so much! Even they spread <strong class="meaning">this official note</strong> to their colleagues. Haiz, It's annoying!
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -66,27 +63,33 @@ Same sound
 
 ::::
 
-### 3. **Occur** <Badge text="verb" type="usVoice"/> <Badge text="əˈkɜːr" type="warning"/>
+### 3. **Occur** <Badge text="verb" type="tip"/> <Badge text="əˈkɜːr" type="warning"/>
+
+<strong class="keyword"></strong>
+<strong class="same-sound"></strong>
+<strong class="meaning"></strong>
+<strong class="antonym"></strong>
+<strong class="synonym"></strong>
 
 :::: tabs
 
-::: tab "Same Sound"
+::: tab Âm thanh tương tự
 
-Same sound
+<strong class="same-sound">Ơ</strong> hơ, t quất con 2 <strong class="same-sound">cơ</strong> cho m câm mồm nhé! M win là trường hợp dell bao giờ <strong class="keyword">xảy ra</strong> đâu con trai 😏!
 
 :::
 
-::: tab "Ví dụ"
+::: tab Ví dụ lazy
 
 ::: tip Chém gió ☃️
 
-1. A
+1. I saw in this life. Anything is possible to <strong class="meaning">happen</strong>! Like bankrupt, starving, an accident...etc. But whether they <strong class="keyword">occur</strong>, you need to remember this: "Don't give up! Stand up and move forward!"
 
 2. B
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -102,7 +105,7 @@ Same sound
 
 :::: tabs
 
-::: tab "Same Sound"
+::: tab Âm thanh tương tự
 
 Same sound
 
@@ -118,7 +121,7 @@ Same sound
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab "Synonym vs Antonym"
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
