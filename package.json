@@ -24,7 +24,7 @@
     "textlint": "11.5.0",
     "vue-toasted": "1.1.27",
     "vuepress": "1.2.0",
-    "vuepress-plugin-element-tabs": "0.1.8",
+    "vuepress-plugin-element-tabs": "0.2.8",
     "yorkie": "2.0.0"
   },
   "gitHooks": {
