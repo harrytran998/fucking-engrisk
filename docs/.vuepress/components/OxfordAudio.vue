@@ -35,6 +35,8 @@ function getLinkOxfordDicionary(text, type) {
     return baseURL + 'us_pron/' + text.substring(0, 1)
   }
 }
+// Icon red
+// https://www.oxfordlearnersdictionaries.com/external/images/documents/icon-audio-name.png
 </script>
 
 <style scoped>
