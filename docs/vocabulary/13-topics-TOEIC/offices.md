@@ -1,69 +1,323 @@
 # Offices - Văn Phòng
 
-## 1. **Appropriate** <Badge text="Adj" type="tip"/> <Badge text="əˈproʊ.pri.ət" type="warning"/>
+## Unit 1
 
-::: tip Chém gió ☃️
-
-The old generation always yells having sex early was not <strong class="meaning">right or reasonable</strong>, but I think making that with my girlfriend is <strong class="keyword">appropriate</strong> 🤨. I agree that having sex without the contraceptive like as a condom is <strong class="antonym">inappropriate</strong>.
-
-:::
+### 1. **Familliar** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
-::: tab Synonym
+::: tab "Same Sound"
 
-...
+Same sound
+
+:::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. The old generation always yells having sex early was not <strong class="meaning">right or reasonable</strong>, but I think making that with my **girlfriend** is <strong class="keyword">appropriate</strong> 🤨. I agree that having sex without the contraceptive like as a condom is <strong class="antonym">inappropriate</strong>.
+
+2. The old generation always yells having sex early was not <strong class="meaning">right or reasonable</strong>, but I think making that with my girlfriend is <strong class="keyword">appropriate</strong> 🤨. I agree that having sex without the contraceptive like as a condom is <strong class="antonym">inappropriate</strong>.
 
 :::
 
-::: tab Antonym
-
-<strong class="antonym">inappropriate</strong>
-
-:::
-::: tab "Word Family"
+::: tab "Synonym Antonym"
 
 <!-- prettier-ignore -->
-| A1                | A2  | B1  | B2  | C1            | C2            | X                 |
-| :---------------- | :-- | :-- | :-- | :------------ | :------------ | :---------------- |
-| appropriate - adj |     |     |     | appropriately | appropriate   | inappropriately   |
-|                   |     |     |     | inappropriate | appropriation | inappropriateness |
+| Đồng nghĩa        | Trái nghĩa |
+| :---------------- | :--------- |
+| appropriate - adj |            |
+|                   |            |
 
 :::
 
 ::::
 
-## 2. **To be content** <Badge text="Adj" type="tip"/> <Badge text="kənˈtent" type="warning"/>
+### 2. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
-::: tip Example 🧾
+:::: tabs
 
-I saw a lot of people looked very <strong class="meaning">happy when </strong>having houses, cars, clothes. They <strong class="meaning">don't want more</strong>. But with me, It's trivial, I will not <strong class="keyword">content</strong>, and I was going to be a millionaire 💰 to help others in need.
+::: tab "Same Sound"
 
-:::
-
-<strong class="synonym"></strong>
-<strong class="antonym"></strong>
-
-## 3. **Instruct** <Badge text="v" type="tip"/> <Badge text="ɪnˈstrʌkt" type="warning"/>
-
-::: tip Example 🧾
-
-Plenty of teachers <strong class="meaning">taught</strong> us many trash pile things, can not be applied in reality. So I decided I will <strong class="keyword">instruct</strong> my self to become a genius 😎 !
+Same sound
 
 :::
 
-## 4. **Represent** <Badge text="v" type="tip"/> <Badge text="rep.rɪˈzent" type="warning"/>
+::: tab "Ví dụ"
 
-::: tip Example 🧾
+::: tip Chém gió ☃️
 
-When I was millennials, I thought I could not <strong class="meaning">talk or interact</strong> with clients. It's so hard, but now, I knew that I am confident that I can <strong class="keyword">represent</strong> for my company to meet the critical partners.
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
 
 :::
 
-## 5. **Stroll** <Badge text="v" type="tip"/> <Badge text="stroʊl" type="warning"/>
+::::
 
-::: tip Example 🧾
+### 3. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
-I saw several of nobles which <strong class="meaning">walked slowly and very calmly</strong> near the lakeside. It looks great! So I lead my dog to <strong class="keyword">stroll</strong> too with them!
+:::: tabs
+
+::: tab "Same Sound"
+
+Same sound
 
 :::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 4. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+
+:::: tabs
+
+::: tab "Same Sound"
+
+Same sound
+
+:::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 5. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+
+:::: tabs
+
+::: tab "Same Sound"
+
+Same sound
+
+:::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 6. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+
+:::: tabs
+
+::: tab "Same Sound"
+
+Same sound
+
+:::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 7. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+
+:::: tabs
+
+::: tab "Same Sound"
+
+Same sound
+
+:::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 8. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+
+:::: tabs
+
+::: tab "Same Sound"
+
+Same sound
+
+:::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 9. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+
+:::: tabs
+
+::: tab "Same Sound"
+
+Same sound
+
+:::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 10. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+
+:::: tabs
+
+::: tab "Same Sound"
+
+Same sound
+
+:::
+
+::: tab "Ví dụ"
+
+::: tip Chém gió ☃️
+
+1. A
+
+2. B
+
+:::
+
+::: tab "Synonym Antonym"
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
