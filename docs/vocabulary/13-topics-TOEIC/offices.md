@@ -34,7 +34,7 @@ Same sound
 
 ::::
 
-### 2. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 2. **Memo** <Badge text="noun" type="tip"/> <Badge text="ˈmemoʊ" type="warning"/>
 
 :::: tabs
 
@@ -66,7 +66,7 @@ Same sound
 
 ::::
 
-### 3. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 3. **Occur** <Badge text="verb" type="usVoice"/> <Badge text="əˈkɜːr" type="warning"/>
 
 :::: tabs
 
@@ -98,7 +98,7 @@ Same sound
 
 ::::
 
-### 4. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 4. **Letter** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
@@ -130,7 +130,7 @@ Same sound
 
 ::::
 
-### 5. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 5. **Department** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
@@ -162,7 +162,7 @@ Same sound
 
 ::::
 
-### 6. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 6. **Conference** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
@@ -194,7 +194,7 @@ Same sound
 
 ::::
 
-### 7. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 7. **Kind** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
@@ -226,7 +226,7 @@ Same sound
 
 ::::
 
-### 8. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 8. **Look after** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
@@ -258,7 +258,7 @@ Same sound
 
 ::::
 
-### 9. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 9. **Procedure** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
@@ -290,7 +290,7 @@ Same sound
 
 ::::
 
-### 10. **Memo** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
+### 10. **Photocopier** <Badge text="Adj" type="tip"/> <Badge text="fəˈmɪliə(r)" type="warning"/>
 
 :::: tabs
 
