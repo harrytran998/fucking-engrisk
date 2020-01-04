@@ -59,7 +59,7 @@ Mình ngày nào cũng phải học English và chia ra \*_Thứ 2 => Thứ 6_ s
 
 :::: tabs
 
-::: tab "T2 T6"
+::: tab T2 ⚜️ T6
 
 ::: tip 13 TOEIC's Topic
 
@@ -92,7 +92,7 @@ Mình ngày nào cũng phải học English và chia ra \*_Thứ 2 => Thứ 6_ s
 
 :::
 
-::: tab "T7 CN"
+::: tab T7 ⚜️ CN
 
 ::: tip Free Style
 
