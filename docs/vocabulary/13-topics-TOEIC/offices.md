@@ -65,12 +65,6 @@ Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ
 
 ### 3. **Occur** <Badge text="verb" type="tip"/> <Badge text="əˈkɜːr" type="warning"/>
 
-<strong class="keyword"></strong>
-<strong class="same-sound"></strong>
-<strong class="meaning"></strong>
-<strong class="antonym"></strong>
-<strong class="synonym"></strong>
-
 :::: tabs
 
 ::: tab Âm thanh tương tự
@@ -85,16 +79,13 @@ Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ
 
 1. I saw in this life. Anything is possible to <strong class="meaning">happen</strong>! Like bankrupt, starving, an accident...etc. But whether they <strong class="keyword">occur</strong>, you need to remember this: "Don't give up! Stand up and move forward!"
 
-2. B
-
 :::
 
 ::: tab Synonym ⚔️ Antonym lazy
 
-<!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
 | :--------- | :--------- |
-|            |            |
+| happen     |            |
 |            |            |
 
 :::
@@ -107,21 +98,21 @@ Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ
 
 ::: tab Âm thanh tương tự
 
-Same sound
+<strong class="same-sound">Lét đờ</strong> của team mình gửi <strong class="keyword">bức thư</strong> khiếu nại tới lãnh đạo vì không được tăng lương!!!
 
 :::
 
-::: tab "Ví dụ"
+::: tab Ví dụ
 
 ::: tip Chém gió ☃️
 
-1. A
+1. I write a <strong class="keyword">letter</strong> of complaint to send for my boss about our team's bonus money.
 
-2. B
+2. I think I should write a thank-you <strong class="keyword">letter</strong> for GaryVee. He awakes me!
 
 :::
 
-::: tab "Synonym vs Antonym"
+::: tab Synonym ⚔️ Antonym
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -135,25 +126,31 @@ Same sound
 
 ### 5. **Department** <Badge text="Adj" type="tip"/> <Badge text="dɪˈpɑːrtmənt" type="warning"/>
 
+<strong class="keyword"></strong>
+<strong class="same-sound"></strong>
+<strong class="meaning"></strong>
+<strong class="antonym"></strong>
+<strong class="synonym"></strong>
+
 :::: tabs
 
-::: tab "Same Sound"
+::: tab Same Sound
 
-Same sound
+Nào <strong class="same-sound">đi</strong> đến <strong class="meaning">phòng ban</strong> chỗ nó làm đi, <strong class="same-sound">Phát mừng</strong> lắm đấy Trung ơi 🤣.
 
 :::
 
-::: tab "Ví dụ"
+::: tab Ví dụ
 
 ::: tip Chém gió ☃️
 
-1. A
+1. Yeah, I like to work on the International Relations <strong class="keyword">Dep't</strong>(phòng quan hệ quốc tế). When I am on there, I will be myself.
 
-2. B
+2. In 2019, U.S. <strong class="keyword">Department</strong> of the Treasury(bộ tài chính Mỹ) had 87,336 employees. It has a fucking pressure on a small country like Vietnam.
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -165,15 +162,7 @@ Same sound
 
 ::::
 
-::: tip Idioms
-
-<strong class="text-bold">be somebody’s department</strong>
-
-​🌟 (informal) to be something that somebody is responsible for or knows a lot about.
-
-Don't ask me about it—that's her department.
-
-:::
+[Idiom](http://localhost:8080/idiom/Part1.html#be-somebody’s-department)
 
 ### 6. **Conference** <Badge text="Adj" type="tip"/> <Badge text="ˈkɒnfərəns" type="warning"/>
 
