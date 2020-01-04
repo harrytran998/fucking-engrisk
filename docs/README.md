@@ -47,15 +47,15 @@ Phương pháp này đòi hỏi phải có sự **tập trung cao độ** + **m�
 
 :::: tabs
 
-::: tab "ARF 📝"
+::: tab ARF 📝
 
-ABC
+Đơn giản là thay vì viết notes hay hightlingth chữ thì **đặt ra những câu hỏi cho chúng**! Cơ chế ghi nhớ lâu của 🧠 rất đơn giản, đó là bạn thực sự hiểu vấn đề và trả lời được các câu hỏi của vấn đề đó! Chi tiết thì hãy xem video để rõ nhé!
 
 :::
 
-::: tab "RRT 🧠"
+::: tab RRT 🧠
 
-XXXX
+Sau khi hiểu vấn đề và nhớ chúng tạm thời thì sau 1 thời gian cũng quên thôi(learning curve). Thì RRT sẽ giúp ta **đặt lịch remind sau 1 thời gian** cho chúng nếu không nhớ! Chi tiết thì hãy xem video để rõ nhé!
 
 :::
 
