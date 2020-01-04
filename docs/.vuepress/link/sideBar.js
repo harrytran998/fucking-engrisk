@@ -64,8 +64,8 @@ module.exports = {
         children: [['', 'Truyện chêm là con mẹ gì?']],
       },
       {
-        title: 'Volum 1 - Elementary',
-        children: ['/story/elementary/Vol1-Unit1'],
+        title: '13 Topics trong TOEIC',
+        children: ['/story/13-topics-TOEIC/offices'],
       },
     ]
   },
