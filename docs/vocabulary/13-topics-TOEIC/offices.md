@@ -162,7 +162,7 @@ Nào <strong class="same-sound">đi</strong> đến <strong class="meaning">phò
 
 ::::
 
-[Idiom](http://localhost:8080/idiom/Part1.html#be-somebody’s-department)
+[Idiom](http://fucking-engrisk.netlify.com//idiom/Part1.html#be-somebody’s-department)
 
 ### 6. **Conference** <Badge text="Adj" type="tip"/> <Badge text="ˈkɒnfərəns" type="warning"/>
 
