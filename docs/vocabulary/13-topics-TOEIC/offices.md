@@ -6,12 +6,6 @@
 
 :::: tabs
 
-::: tab Âm thanh tương tự
-
-<strong class="same-sound">Phở mỳ</strong> ăn <strong class="same-sound">liền</strong> là món rất <strong class="keyword">quen thuộc</strong> đối vs người VN, đặc biệt là sinh viên.
-
-:::
-
 ::: tab Ví dụ lazy
 
 ::: tip Chém gió ☃️
@@ -35,11 +29,6 @@
 ### 2. **Memo** <Badge text="noun" type="tip"/> <Badge text="ˈmemoʊ" type="warning"/>
 
 :::: tabs
-
-::: tab Âm thanh tương tự
-
-Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ <strong class="keyword">thông báo nội bộ</strong> công ty <3. Nhìn chúng rất bắt mắt!
-:::
 
 ::: tab Ví dụ lazy
 
@@ -67,12 +56,6 @@ Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ
 
 :::: tabs
 
-::: tab Âm thanh tương tự
-
-<strong class="same-sound">Ơ</strong> hơ, t quất con 2 <strong class="same-sound">cơ</strong> cho m câm mồm nhé! M win là trường hợp dell bao giờ <strong class="keyword">xảy ra</strong> đâu con trai 😏!
-
-:::
-
 ::: tab Ví dụ lazy
 
 ::: tip Chém gió ☃️
@@ -92,15 +75,9 @@ Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ
 
 ::::
 
-### 4. **Letter** <Badge text="Adj" type="tip"/> <Badge text="ˈletər" type="warning"/>
+### 4. **Letter** <Badge text="Adj" type="tip"/> <Badge text="ˈletər" type="warning"/> <small>[Idiom](http://fucking-engrisk.netlify.com/idiom/Part1.html#to-the-letter)</small>
 
 :::: tabs
-
-::: tab Âm thanh tương tự
-
-<strong class="same-sound">Lét đờ</strong> của team mình gửi <strong class="keyword">bức thư</strong> khiếu nại tới lãnh đạo vì không được tăng lương!!!
-
-:::
 
 ::: tab Ví dụ
 
@@ -112,7 +89,7 @@ Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ
 
 :::
 
-::: tab Synonym ⚔️ Antonym
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -124,21 +101,9 @@ Tôi rất <strong class="same-sound">mê màu</strong> xanh và tím trong tờ
 
 ::::
 
-### 5. **Department** <Badge text="Adj" type="tip"/> <Badge text="dɪˈpɑːrtmənt" type="warning"/>
-
-<strong class="keyword"></strong>
-<strong class="same-sound"></strong>
-<strong class="meaning"></strong>
-<strong class="antonym"></strong>
-<strong class="synonym"></strong>
+### 5. **Department** <Badge text="Adj" type="tip"/> <Badge text="dɪˈpɑːrtmənt" type="warning"/> <small>[Idiom](http://fucking-engrisk.netlify.com/idiom/Part1.html#be-somebody’s-department)</small>
 
 :::: tabs
-
-::: tab Same Sound
-
-Nào <strong class="same-sound">đi</strong> đến <strong class="meaning">phòng ban</strong> chỗ nó làm đi, <strong class="same-sound">Phát mừng</strong> lắm đấy Trung ơi 🤣.
-
-:::
 
 ::: tab Ví dụ
 
@@ -150,7 +115,7 @@ Nào <strong class="same-sound">đi</strong> đến <strong class="meaning">phò
 
 :::
 
-::: tab Synonym ⚔️ Antonym
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -162,19 +127,16 @@ Nào <strong class="same-sound">đi</strong> đến <strong class="meaning">phò
 
 ::::
 
-[Idiom](http://fucking-engrisk.netlify.com//idiom/Part1.html#be-somebody’s-department)
-
 ### 6. **Conference** <Badge text="Adj" type="tip"/> <Badge text="ˈkɒnfərəns" type="warning"/>
+
+<strong class="keyword"></strong>
+<strong class="meaning"></strong>
+<strong class="antonym"></strong>
+<strong class="synonym"></strong>
 
 :::: tabs
 
-::: tab "Same Sound"
-
-Same sound
-
-:::
-
-::: tab "Ví dụ"
+::: tab Ví dụ
 
 ::: tip Chém gió ☃️
 
@@ -184,7 +146,7 @@ Same sound
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -200,13 +162,7 @@ Same sound
 
 :::: tabs
 
-::: tab "Same Sound"
-
-Same sound
-
-:::
-
-::: tab "Ví dụ"
+::: tab Ví dụ
 
 ::: tip Chém gió ☃️
 
@@ -216,7 +172,7 @@ Same sound
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -228,52 +184,11 @@ Same sound
 
 ::::
 
-https://www.oxfordlearnersdictionaries.com/definition/english/kind_1?q=Kind
-
-::: tip Idioms
-
-in kind
-​(of a payment) consisting of goods or services, not money
-As well as his salary, he gets benefits in kind.
-​(formal) with the same thing
-She insulted him and he responded in kind.
-a kind of
-​(informal) used to show that something you are saying is not exact
-I had a kind of feeling this might happen.
-kind of (informal)
-(also kinda BrE /ˈkaɪndə/ ; NAmE /ˈkaɪndə/ )
-​ slightly; in some ways
-That made me feel kind of stupid.
-I like him, kind of.
-nothing of the kind/sort
-​used to emphasize that the situation is very different from what has been said
-‘I was terrible!’ ‘You were nothing of the kind.’
-of a kind
-​(disapproving) not as good as it could be
-You're making progress of a kind.
-​very similar
-They're two of a kind—both workaholics!
-one of a kind
-​the only one like this
-synonym unique
-My father was one of a kind—I'll never be like him.
-something of the/that kind
-​something like what has been said
-‘He's resigning.’ ‘I'd suspected something of the kind.’
-
-:::
-
 ### 8. **Look after** <Badge text="Adj" type="tip"/> <Badge text="..." type="warning"/>
 
 :::: tabs
 
-::: tab "Same Sound"
-
-Same sound
-
-:::
-
-::: tab "Ví dụ"
+::: tab Ví dụ
 
 ::: tip Chém gió ☃️
 
@@ -283,7 +198,7 @@ Same sound
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -299,13 +214,7 @@ Same sound
 
 :::: tabs
 
-::: tab "Same Sound"
-
-Same sound
-
-:::
-
-::: tab "Ví dụ"
+::: tab Ví dụ
 
 ::: tip Chém gió ☃️
 
@@ -315,7 +224,7 @@ Same sound
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -331,13 +240,7 @@ Same sound
 
 :::: tabs
 
-::: tab "Same Sound"
-
-Same sound
-
-:::
-
-::: tab "Ví dụ"
+::: tab Ví dụ
 
 ::: tip Chém gió ☃️
 
@@ -347,7 +250,7 @@ Same sound
 
 :::
 
-::: tab "Synonym Antonym"
+::: tab Synonym ⚔️ Antonym
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
