@@ -153,7 +153,7 @@
 
 ::::
 
-### 7. **Kind** <Badge text="Noun" type="tip"/> <Badge text="kaɪnd" type="warning"/>
+### 7. **Kind** <Badge text="Noun" type="tip"/> <Badge text="kaɪnd" type="warning"/> <small>[Idiom](http://fucking-engrisk.netlify.com/idiom/Part1.html#one-of-a-kind)</small>
 
 <strong class="keyword"></strong>
 <strong class="meaning"></strong>
@@ -164,9 +164,9 @@
 
 ::: tip Chém gió ☃️
 
-1. A
+1. Trust me! Let's behavior well with your girlfriend. After all, you're responded <strong class="keyword">in kind</strong>(with the same thing).
 
-2. B
+2. I had <strong class="keyword">a kind of</strong>(show that something you are saying is not exact) feeling that I will be forever alone until 30s
 
 :::
 
@@ -190,9 +190,9 @@
 
 ::: tip Chém gió ☃️
 
-1. Don't worry about me—I can look after myself (= I don't need any help).
+1. Don't worry about me — I can look after myself (= I don't need any help).
 
-2. Who's going to look after the children while you're away?
+2. Who's going to look after my children while I'm away? I scare they would fire your house, mother fucker!
 
 :::
 
@@ -216,9 +216,9 @@
 
 ::: tip Chém gió ☃️
 
-1. A
+1. I think one of the most difficult when the startup is don't have complete procedures(quy trình) and you must accomplish it!
 
-2. B
+2. All of the hospitals have emergency procedures(thủ tục nguy cấp) template for the life-threatening people.
 
 :::
 
@@ -242,9 +242,7 @@
 
 ::: tip Chém gió ☃️
 
-1. A
-
-2. B
+1. I need the photocopier to print and send my practice report for my university!
 
 :::
 

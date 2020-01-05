@@ -42,3 +42,66 @@
 :::
 
 ::::
+
+### Kind of <Badge text="ˈkaɪndə" type="warning"/>
+
+:::: tabs
+
+::: tab Ý nghĩa 🌠
+
+slightly; in some ways
+
+:::
+
+::: tab Ví dụ lazy
+
+::: tip Chém gió thần cấp
+
+1. I like Hue. She is a beautiful girl with a strong personality, kind of.
+2. When I want to say something with her, It made me feel kind of stupid. LOL!
+
+:::
+
+::::
+
+### nothing of the kind/sort
+
+:::: tabs
+
+::: tab Ý nghĩa 🌠
+
+emphasize that the situation is very different from what has been said
+
+:::
+
+::: tab Ví dụ lazy
+
+::: tip Chém gió thần cấp
+
+1. I was. Regrettably, I don't pursue Hue when I can. You were nothing of the kind!
+
+:::
+
+::::
+
+### One of a kind
+
+:::: tabs
+
+::: tab Ý nghĩa 🌠
+
+​- The only one like this
+
+- Synonym: <strong class="synonym">Unique</strong>
+
+:::
+
+::: tab Ví dụ lazy
+
+::: tip Chém gió thần cấp
+
+1. I think Hue was one of a kind - I'll never find a girl like her!
+
+:::
+
+::::
