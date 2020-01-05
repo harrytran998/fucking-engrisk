@@ -129,20 +129,15 @@
 
 ### 6. **Conference** <Badge text="Adj" type="tip"/> <Badge text="ˈkɒnfərəns" type="warning"/>
 
-<strong class="keyword"></strong>
-<strong class="meaning"></strong>
-<strong class="antonym"></strong>
-<strong class="synonym"></strong>
-
 :::: tabs
 
 ::: tab Ví dụ
 
 ::: tip Chém gió ☃️
 
-1. A
+1. In the future, I am going to be a speaker who shares a successful mindset, the legend story about myself in the most significant <strong class="keyword">conference room</strong> in the city. Therefore. I will help Vietnam's young generation have a new awareness and develop this country which going up!
 
-2. B
+2. All CEOs from Vietnam will meet at the <strong class="keyword">conference table</strong> this week to listen to my talk show about startup!
 
 :::
 
@@ -159,6 +154,9 @@
 ::::
 
 ### 7. **Kind** <Badge text="Noun" type="tip"/> <Badge text="kaɪnd" type="warning"/>
+
+<strong class="keyword"></strong>
+<strong class="meaning"></strong>
 
 :::: tabs
 
