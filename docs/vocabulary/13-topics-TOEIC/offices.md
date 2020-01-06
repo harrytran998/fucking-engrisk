@@ -348,7 +348,7 @@
 
 ::: tip Chém gió ☃️
 
-1.
+1. It would be better if you integrate idiomatic expressions when talking with your English friends!
 
 :::
 
@@ -358,6 +358,86 @@
 | Đồng nghĩa | Trái nghĩa |
 | :--------- | :--------- |
 |            |            |
+|            |            |
+
+:::
+
+::::
+
+### 15. **Slang** <Badge text="pharse" type="tip"/> <Badge text="slæŋ" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. Let's try to use the slangs of the native people. You can make a little bit of surprise for them, man!
+
+2. In Eminem's rap song, he used a ton of rhyming slang to make the beat more fucking get high.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 16. **Sack - Fire** <Badge text="V" type="tip"/> <Badge text="sæk - ˈfaɪər" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. I want to hustle to build a company for me. Therefore, I'm the CEO, and nobody can sack me. I think it's vice versa!
+
+2. Although wherever you are, if you don't do good your bussiness. You will be fired!
+
+3. If you don't accomplish your task before the deadline, yeah, you know! I will show you the door!
+
+4. Mr.Trung! I really don't want to do this, but the executives and I decide to let you go after this week! Your work performance is too bad for a long times ago!
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa            | Trái nghĩa |
+| :-------------------- | :--------- |
+| Sack                  |            |
+| Fire                  |            |
+| Show someone the door |            |
+| Let someone go        |            |
+
+:::
+
+::::
+
+### 17. **Terminate** <Badge text="V" type="tip"/> <Badge text="ˈtɜːrmɪneɪt" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. The agreement between Hoa-san and I will terminate in August - 2020!
+2. After the OJT semester, my fucking contract of employment will terminated with Capi Design Creative. It's fucking awesome!
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
 |            |            |
 
 :::
