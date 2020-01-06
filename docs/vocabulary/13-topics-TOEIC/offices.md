@@ -170,7 +170,7 @@
 
 :::
 
-::: tab Synonym ⚔️ Antonym
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -196,7 +196,7 @@
 
 :::
 
-::: tab Synonym ⚔️ Antonym
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -222,7 +222,7 @@
 
 :::
 
-::: tab Synonym ⚔️ Antonym
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
@@ -246,7 +246,113 @@
 
 :::
 
-::: tab Synonym ⚔️ Antonym
+::: tab Synonym ⚔️ Antonym lazy
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+<br/>
+<br/>
+<br/>
+
+## Unit 2
+
+### 11. **Collocations** <Badge text="noun" type="tip"/> <Badge text="ˌkɑːləˈkeɪʃn" type="warning"/> <Badge text="cách kết hợp từ" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. "Resounding success", "What's up man" and "fuck you, motherfucker" are English collocations.
+2. Let's use collocations in English. It can help us make the sentences being more attractive and sound good!
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 12. **Hold a meeting** <Badge text="pharse" type="tip"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. The meeting between billionaire Nhat with his fan will be held in the community centre of Ha Noi.
+2. At the end of the week, my team always holds a meeting to summarize, evaluate, and revise our procedure.
+
+:::
+
+<!-- prettier-ignore -->
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+| organize   |            |
+|            |            |
+
+:::
+
+::::
+
+### 13. **Downsize a department** <Badge text="pharse" type="tip"/> <Badge text="cắt giảm nhân sự phòng ban" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. After Vinmart vs. Massan join together, the CEO of Massan decides to downsize a lot of departments to decrease risk and salary for the staff!
+
+2. When we learn Business Administration, downsizing some departments can help the company out of bankrupt.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+<!-- prettier-ignore -->
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+
+:::
+
+::::
+
+### 14. **Idiomatic expressions** <Badge text="pharse" type="tip"/> <Badge text="Cách diễn đạt mang tính thành ngữ" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
 
 <!-- prettier-ignore -->
 | Đồng nghĩa | Trái nghĩa |
