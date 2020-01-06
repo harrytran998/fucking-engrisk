@@ -33,7 +33,7 @@ module.exports = {
       },
       {
         title: 'A1',
-        children: ['/grammar/a1/noun'],
+        children: ['/grammar/a1/noun', '/grammar/a1/adverb'],
       },
       {
         title: 'A2',
