@@ -454,7 +454,9 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. Hêi Hoa-san, can you do your tasks to repeat an earlier point?
+
+2. I am repeating an earlier point! My vision is our company will make one of the most biggest IPO in this world! Congratulation!
 
 :::
 
@@ -476,7 +478,9 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. Long-time ago, my university used email to announce students. But nowadays, they like to use a verbal announcement. It's the difference of my college!
+
+2. I think the verbal announcement is one efficient way can transport the information to our team!
 
 :::
 
@@ -498,27 +502,9 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. When someone requests me to consult, I will always require that I want to face-to-face conversation to obtain the best results!
 
-:::
-
-::: tab Synonym ⚔️ Antonym lazy
-
-| Đồng nghĩa | Trái nghĩa |
-| :--------- | :--------- |
-|            |            |
-
-:::
-
-::::
-
-### 21. **Fax machine** <Badge text="pharse" type="tip"/>
-
-::: tab Ví dụ
-
-::: tip Chém gió ☃️
-
-1. 2.
+2. In love, I always think face-to-face conversations with your girlfriend is better than a message to facebook!
 
 :::
 
@@ -540,7 +526,7 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. If you are a startup, I think at least one time, you had been a headache about purchasing theme!
 
 :::
 
@@ -562,7 +548,9 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. In the summertime, almost everyone likes to use the air-conditioner. But accept me! I don't like and don't want to use it, mother fucker!
+
+2. I believe that the air-conditioner is one of the most inventions in the world! It's fucking helpful for people in need!
 
 :::
 
@@ -584,29 +572,7 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
-
-:::
-
-::: tab Synonym ⚔️ Antonym lazy
-
-| Đồng nghĩa | Trái nghĩa |
-| :--------- | :--------- |
-|            |            |
-
-:::
-
-::::
-
-### 25. **Teacher's conference** <Badge text="noun" type="tip"/> <Badge text="Hội nghị(họp) giáo viên" type="warning"/>
-
-:::: tabs
-
-::: tab Ví dụ
-
-::: tip Chém gió ☃️
-
-1. 2.
+1. I never use and never seen anyone using the voice mail. It's not popular in Vietnam, so I don't fucking care about it!
 
 :::
 
@@ -628,7 +594,7 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. Please call my teaching assistant Mr.Nhat at extension!
 
 :::
 
@@ -650,7 +616,7 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. I will build and own the procedures that can help me more comfortable to be out of the office!
 
 :::
 
@@ -672,7 +638,7 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. I think you should find a job that can help you back in the office tomorrow with excitement.
 
 :::
 
@@ -694,7 +660,7 @@
 
 ::: tip Chém gió ☃️
 
-1. 2.
+1. I have an advice for my children that if you're young, you must feel free to do your goals! And remember this quote: "BECOME => ACTION => GAIN"
 
 :::
 
