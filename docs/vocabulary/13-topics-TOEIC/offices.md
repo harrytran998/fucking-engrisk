@@ -532,7 +532,161 @@
 
 ::::
 
-### 22. **Purchasing theme** <Badge text="pharse" type="tip"/> <Badge text="Chuyên đề mua sắm trong doanh nghiệp" type="warning"/>
+### 22. **Purchasing theme** <Badge text="noun" type="tip"/> <Badge text="Chuyên đề mua sắm trong doanh nghiệp" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 23. **Air-conditioner** <Badge text="noun" type="tip"/> <Badge text="Điều hoà" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 24. **The voice mail** <Badge text="noun" type="tip"/> <Badge text="Hộp thư thoại" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 25. **Teacher's conference** <Badge text="noun" type="tip"/> <Badge text="Hội nghị(họp) giáo viên" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 26. **At extension** <Badge text="noun" type="tip"/> <Badge text="Theo số máy lẻ" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 27. **Be out of the office** <Badge text="noun" type="tip"/> <Badge text="vắng mặt khỏi văn phòng" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 28. **Back in the office** <Badge text="noun" type="tip"/> <Badge text="trở lại văn phòng" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 29. **Feel free to do sth** <Badge text="noun" type="tip"/> <Badge text="Đừng ngại làm gì" type="warning"/>
 
 :::: tabs
 
