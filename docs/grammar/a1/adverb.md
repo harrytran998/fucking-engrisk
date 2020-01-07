@@ -80,3 +80,88 @@ Ví dụ:
     - This food is very bad.
     - She speaks English too quickly for me to follow.
     - She can dance very beautifully.
+
+### 2.6. Chỉ số lượng (Quantity)
+
+Diễn tả số lượng (ít hoặc nhiều, một, hai ... lần...)
+
+Ví dụ:
+
+    - My children study rather little
+    - The champion has won the prize twice.
+
+### 2.7. Nghi vấn (Questions)
+
+Là những trạng từ **đứng đầu câu** dùng để hỏi, gồm: When, where, why, how.
+
+Ví dụ:
+
+    - When are you going to take it?
+    - Why didn't you go to school yesterday?
+
+### 2.8. Liên hệ (Relation)
+
+Là những trạng từ dùng để nối hai mệnh đề với nhau. Chúng có thể diễn tả địa điểm (where), thời gian (when) hoặc lí do (why).
+
+Ví dụ:
+
+    - I remember the day when I met her on the beach.
+    - This is the room where I was born.
+
+## 3. Có chung cách viết với tính từ
+
+Nhiều tính từ và trạng từ trong tiếng Anh có cách viết tương tự vì vậy phải dựa vào cấu trúc và vị trí của chúng để xác định xem đâu là tính từ và đâu là trạng từ.
+
+Ví dụ:
+
+    - A hard worker works very hard.
+
+## 4. Cách hình thành trạng từ.
+
+Tính từ + -ly : Phần lớn trạng từ chỉ thể cách có hể được thành lập bằng cách thêm -ly vào tính từ:
+
+    - Quick -quickly
+    - Kind - kindly
+    - Bad - badly
+    - Easy - easily
+
+## 5. Vị trí của trạng từ.
+
+### 5.1. Trước động từ thường
+
+Nhất là các trạng từ chỉ tần suất: often, always, usually, seldom....
+
+### 5.2. Giữa trợ động từ và động từ thường
+
+VD: **I have recently finished my homework**.
+
+### 5.3. Sau các động từ đặc biệt
+
+Các động từ "to be/seem/look"...và trước tính từ: "tobe/feel/look"... + adv + adj.
+
+Ex: She is very nice.
+
+### 5.4. Sau “too”: V(thường) + too + adv
+
+VD: The teacher speaks too quickly.
+
+### 5.5. Trước “enough” : V + adv + enough
+
+VD: The teacher speaks slowly enough for us to understand.
+
+### 5.6. Trong cấu trúc so....that: V + so + adv + that
+
+VD: Jack drove so fast that he caused an accident.
+
+### 5.7. Đứng cuối câu
+
+VD: The doctor told me to breathe in slowly.
+
+## 6. Hình thức so sánh của trạng từ
+
+Cũng như tính từ, Trạng từ cũng có hình thức so sánh kép:
+
+VD:
+
+    - We are going more and more slowly.
+    - He is working harder and harder.
