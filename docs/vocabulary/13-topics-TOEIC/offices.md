@@ -443,3 +443,113 @@
 :::
 
 ::::
+
+## Unit 3
+
+### 18. **To repeat an earlier point** <Badge text="pharse" type="tip"/> <Badge text="Như đã nói trước đây" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 19. **Verbal announcement** <Badge text="pharse" type="tip"/> <Badge text="Thông báo = lời nói" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 20. **Face-to-face conversation** <Badge text="pharse" type="tip"/> <Badge text="Hội thoại trực tiếp" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 21. **Fax machine** <Badge text="pharse" type="tip"/>
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 22. **Purchasing theme** <Badge text="pharse" type="tip"/> <Badge text="Chuyên đề mua sắm trong doanh nghiệp" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. 2.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
