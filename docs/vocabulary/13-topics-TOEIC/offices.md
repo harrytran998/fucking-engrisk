@@ -673,3 +673,115 @@
 :::
 
 ::::
+
+## Unit 4
+
+### 30. **Freely** <Badge text="adv" type="tip"/> <Badge text="ˈfrili" type="warning"/> <Badge text="Dễ dàng" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 31. **In order to** <Badge text="pharse" type="tip"/> <Badge text="Để làm gì đó" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 32. **Get rid of** <Badge text="pharse" type="tip"/> <Badge text="Loại bỏ, từ bỏ" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 33. **Take up** <Badge text="pharse" type="tip"/> <Badge text="Chiếm" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
+
+### 34. **Make it really difficult** <Badge text="pharse" type="tip"/> <Badge text="Thực sự gây khó khăn" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
