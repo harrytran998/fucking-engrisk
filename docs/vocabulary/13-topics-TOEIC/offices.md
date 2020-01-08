@@ -684,7 +684,9 @@
 
 ::: tip Chém gió ☃️
 
-1.
+1. In the college, if you hustle like a workholic, I think after you graduate, your life can be more freely!
+
+2. You must love yourself first! When you do that, you can be more freely to find out half of yourself easy!
 
 :::
 
@@ -706,7 +708,9 @@
 
 ::: tip Chém gió ☃️
 
-1.
+1. In order to become a billionaire easier, you should build a lot of systems, procedures to make money automatically for you whether you're sleeping!
+
+2. In order to find out the motivations, I think you should make you really happy first! Don't try to make satisfying all of the others!
 
 :::
 
@@ -728,7 +732,9 @@
 
 ::: tip Chém gió ☃️
 
-1.
+1. Do you want to succeed? Firstly, you must get rid of your friends who make you feel suck and have a bad influence!
+
+2. I think if anyone wants to be an entrepreneur, we must learn how to get rid of bad habits and develop good habits!
 
 :::
 
@@ -750,7 +756,9 @@
 
 ::: tip Chém gió ☃️
 
-1.
+1. I knew to watch youtube, which takes my time up too much! So I decide to eliminate it 30 minutes per day!
+
+2. I realize that I am clever. I often take Trung's food up for me 🤤!
 
 :::
 
@@ -772,7 +780,7 @@
 
 ::: tip Chém gió ☃️
 
-1.
+1. Discipline has made it really difficult for us to be consistent day by day! But if you can do that, you will become a genius!
 
 :::
 
