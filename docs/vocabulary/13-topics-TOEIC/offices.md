@@ -793,3 +793,25 @@
 :::
 
 ::::
+
+### 35. **No longer need** <Badge text="pharse" type="tip"/> <Badge text="Dont need anymore" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. When we bought something having a carton box if you don't need to use it that right now, please get rid of it! We no longer need that!
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::::
