@@ -740,9 +740,9 @@
 
 ::: tab Synonym ⚔️ Antonym lazy
 
-| Đồng nghĩa | Trái nghĩa |
-| :--------- | :--------- |
-|            |            |
+| Đồng nghĩa  | Trái nghĩa |
+| :---------- | :--------- |
+| elimination |            |
 
 :::
 
