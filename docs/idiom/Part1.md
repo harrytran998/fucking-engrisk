@@ -105,3 +105,29 @@ emphasize that the situation is very different from what has been said
 :::
 
 ::::
+
+### My word is my bond
+
+:::: tabs
+
+::: tab Meaning 🇺🇸
+
+If someone's word is their bond, they always keep a promise:
+
+:::
+
+::: tab Ví dụ lazy
+
+::: tip Chém gió thần cấp
+
+1. It's a man. My word is my bond! I will never let you down!
+
+:::
+
+::: tab Meaning 🇻🇳
+
+Lời t nói có trọng lượng!
+
+:::
+
+::::
