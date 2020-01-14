@@ -153,7 +153,7 @@ Bảo hành
 
 ::: tip Chém gió ☃️
 
-1.
+1. If you have a lot of labour working for you, yeah, you going to be rich someday, man! Let's continue your business!
 
 :::
 
@@ -181,7 +181,7 @@ Lao động
 
 ::: tip Chém gió ☃️
 
-1.
+1. I think you should meet the specified standards to reach the franchise! If we own that, we going to be rich in the future!
 
 :::
 
@@ -209,7 +209,7 @@ Nhượng quyền thương mại
 
 ::: tip Chém gió ☃️
 
-1.
+1. If you know to use the mutual fund in a flexible way, your company will be saved!
 
 :::
 
@@ -223,7 +223,7 @@ Nhượng quyền thương mại
 
 ::: tab Meaning 🇻🇳 lazy
 
-Quỹ hỗ tương
+Quỹ tương hỗ
 
 :::
 
@@ -237,7 +237,7 @@ Quỹ hỗ tương
 
 ::: tip Chém gió ☃️
 
-1.
+1. I don't know you will do something, but if you have the intent of buy-out our company. 100%, you will lose!
 
 :::
 
@@ -265,7 +265,7 @@ Thôn tính toàn bộ doanh nghiệp
 
 ::: tip Chém gió ☃️
 
-1.
+1. Trust me, one well-timed consultancy will save your life!
 
 :::
 
@@ -293,7 +293,7 @@ Sự tư vấn
 
 ::: tip Chém gió ☃️
 
-1.
+1. I don't know you will do something, but if you have the intent of take-over our company. 100%, you will lose!
 
 :::
 
