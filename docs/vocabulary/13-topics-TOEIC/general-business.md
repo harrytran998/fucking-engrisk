@@ -115,3 +115,200 @@ Pháp lý
 :::
 
 ::::
+
+### 5. **Warranty** <Badge text="noun" type="tip"/> <Badge text="ˈwɑrənti" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. If I buy this car, is it still under warranty?
+2. I won't let you down, man! This stuff comes with a full two-year warranty. You got a good deal!
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+| guarantee  |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Bảo hành
+
+:::
+
+::::
+
+### 6. **Labour** <Badge text="noun" type="tip"/> <Badge text="ˈleɪ.bɚ" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+| guarantee  |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Lao động
+
+:::
+
+::::
+
+### 7. **Franchise** <Badge text="noun" type="tip"/> <Badge text="ˈfræn.tʃaɪz" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Nhượng quyền thương mại
+
+:::
+
+::::
+
+### 8. **Mutual fund** <Badge text="noun" type="tip"/> <Badge text="ˈmjuː.tʃu.əl ˌfʌnd" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Quỹ hỗ tương
+
+:::
+
+::::
+
+### 8. **By-out** <Badge text="noun" type="tip"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Thôn tính toàn bộ doanh nghiệp
+
+:::
+
+::::
+
+### 9. **Consultancy** <Badge text="noun" type="tip"/> <Badge text="kənˈsʌl.tən.si" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Sự tư vấn
+
+:::
+
+::::
+
+### 10. **Take-over** <Badge text="noun" type="tip"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Thôn tính 1 phần lớn doanh nghiệp
+
+:::
+
+::::
