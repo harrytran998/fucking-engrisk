@@ -312,3 +312,225 @@ Thôn tính 1 phần lớn doanh nghiệp
 :::
 
 ::::
+
+## Unit 2
+
+### 11. **Reference** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+:::
+
+::::
+
+### 11. **Reference** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Sự tham chiếu
+
+:::
+
+::::
+
+### 12. **Solicitor** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Luật sư đại diện
+
+:::
+
+::::
+
+### 13. **Counsel** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Cố vấn
+
+:::
+
+::::
+
+### 14. **Subsidiary** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Chi nhánh
+
+:::
+
+::::
+
+### 15. **Division** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Ban(trong tổ chức)
+
+:::
+
+::::
+
+### 16. **Rather than sth** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+Hơn là cái gì
+
+:::
+
+::::
+
+### 17. **Solicitor** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+:::
+
+::: tab Meaning 🇻🇳 lazy
+
+:::
+
+::::
