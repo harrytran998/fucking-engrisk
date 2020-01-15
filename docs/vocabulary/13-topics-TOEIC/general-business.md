@@ -315,7 +315,7 @@ Thôn tính 1 phần lớn doanh nghiệp
 
 ## Unit 2
 
-### 11. **Reference** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+### 11. **Reference** <Badge text="noun" type="tip"/> <Badge text="ˈrɛfrəns" type="warning"/>
 
 :::: tabs
 
@@ -323,33 +323,7 @@ Thôn tính 1 phần lớn doanh nghiệp
 
 ::: tip Chém gió ☃️
 
-1.
-
-:::
-
-::: tab Synonym ⚔️ Antonym lazy
-
-| Đồng nghĩa | Trái nghĩa |
-| :--------- | :--------- |
-|            |            |
-
-:::
-
-::: tab Meaning 🇻🇳 lazy
-
-:::
-
-::::
-
-### 11. **Reference** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
-
-:::: tabs
-
-::: tab Ví dụ
-
-::: tip Chém gió ☃️
-
-1.
+1. Copying totally is different from the reference! One side is you having thinking, another side is not!
 
 :::
 
@@ -369,7 +343,7 @@ Sự tham chiếu
 
 ::::
 
-### 12. **Solicitor** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+### 12. **Solicitor** <Badge text="noun" type="tip"/> <Badge text="səˈlɪsət̮ər" type="warning"/>
 
 :::: tabs
 
@@ -377,7 +351,7 @@ Sự tham chiếu
 
 ::: tip Chém gió ☃️
 
-1.
+1. I'm always have my solicitors who handle the juridical problems!
 
 :::
 
@@ -397,7 +371,9 @@ Luật sư đại diện
 
 ::::
 
-### 13. **Counsel** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+### 13. **Counsel** <Badge text="noun" type="tip"/> <Badge text="ˈkaʊnsl" type="warning"/>
+
+[Idiom](http://fucking-engrisk.netlify.com/idiom/Part1.html#keep-your-own-counsel)
 
 :::: tabs
 
@@ -405,7 +381,7 @@ Luật sư đại diện
 
 ::: tip Chém gió ☃️
 
-1.
+1. Yeah, I know I should have a finance counsel to arrange my daily budget! It's fucking mess!
 
 :::
 
@@ -433,7 +409,7 @@ Cố vấn
 
 ::: tip Chém gió ☃️
 
-1.
+1. I listen that the fried chicken in all subsidiaries of KFC has the same taste. It's fucking delicious <3
 
 :::
 
@@ -453,7 +429,7 @@ Chi nhánh
 
 ::::
 
-### 15. **Division** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+### 15. **Division** <Badge text="noun" type="tip"/> <Badge text="dəˈvɪʒn" type="warning"/>
 
 :::: tabs
 
@@ -461,7 +437,7 @@ Chi nhánh
 
 ::: tip Chém gió ☃️
 
-1.
+1. We should have bonus money for the company's sales division because of the profit this department brings for our company!
 
 :::
 
@@ -475,7 +451,7 @@ Chi nhánh
 
 ::: tab Meaning 🇻🇳 lazy
 
-Ban(trong tổ chức)
+Ban, bộ phận(trong tổ chức)
 
 :::
 
@@ -489,7 +465,7 @@ Ban(trong tổ chức)
 
 ::: tip Chém gió ☃️
 
-1.
+1. I like eat KFC rather than McDonal.
 
 :::
 
@@ -504,32 +480,6 @@ Ban(trong tổ chức)
 ::: tab Meaning 🇻🇳 lazy
 
 Hơn là cái gì
-
-:::
-
-::::
-
-### 17. **Solicitor** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
-
-:::: tabs
-
-::: tab Ví dụ
-
-::: tip Chém gió ☃️
-
-1.
-
-:::
-
-::: tab Synonym ⚔️ Antonym lazy
-
-| Đồng nghĩa | Trái nghĩa |
-| :--------- | :--------- |
-|            |            |
-
-:::
-
-::: tab Meaning 🇻🇳 lazy
 
 :::
 
