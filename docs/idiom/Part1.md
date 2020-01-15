@@ -131,3 +131,29 @@ Lời t nói có trọng lượng!
 :::
 
 ::::
+
+### Keep your own counsel
+
+:::: tabs
+
+::: tab Meaning 🇺🇸
+
+to keep your opinions, plans, secret, etc.
+
+:::
+
+::: tab Ví dụ lazy
+
+::: tip Chém gió thần cấp
+
+1. I'm disappointed about what he told me, but I kept my own counsel, never talking again with him.
+
+:::
+
+::: tab Meaning 🇻🇳
+
+Giữ vững lập trường - bí mật
+
+:::
+
+::::
