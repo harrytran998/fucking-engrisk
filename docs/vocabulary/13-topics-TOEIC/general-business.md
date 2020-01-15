@@ -40,7 +40,7 @@ Mang tính doanh nhân
 
 ::: tip Chém gió ☃️
 
-1. Mergers and acquisitions is the transactions in which the ownership of companies, other business organization are tranferred or combined!
+1. Mergers and acquisitions is the transactions in which the ownership of companies, other business organization are transferred or combined!
 
 :::
 
@@ -161,7 +161,7 @@ Bảo hành
 
 | Đồng nghĩa | Trái nghĩa |
 | :--------- | :--------- |
-| guarantee  |            |
+|            |            |
 
 :::
 
