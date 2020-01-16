@@ -401,7 +401,7 @@ Cố vấn
 
 ::::
 
-### 14. **Subsidiary** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+### 14. **Subsidiary** <Badge text="noun" type="tip"/> <Badge text="səbˈsɪdiˌɛri" type="warning"/>
 
 :::: tabs
 
