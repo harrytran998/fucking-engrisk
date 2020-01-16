@@ -484,3 +484,115 @@ Hơn là cái gì
 :::
 
 ::::
+
+### 17. **Board of directors** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1. When your company expends, You should found a board of directors to easier controll the operation
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+::
+
+::: tab Meaning 🇻🇳 lazy
+
+Ban giám đốc
+
+:::
+
+::::
+
+### 18. **Flyers** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+::
+
+::: tab Meaning 🇻🇳 lazy
+
+Tờ rơi
+
+:::
+
+::::
+
+### 19. **Brochures** <Badge text="noun" type="tip"/> <Badge text="broʊˈʃʊr" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+::
+
+::: tab Meaning 🇻🇳 lazy
+
+Tờ gấp quảng cáo - Như của Capi Design
+
+:::
+
+::::
+
+### 20. **Department store** <Badge text="noun" type="tip"/> <Badge text="" type="warning"/>
+
+:::: tabs
+
+::: tab Ví dụ
+
+::: tip Chém gió ☃️
+
+1.
+
+:::
+
+::: tab Synonym ⚔️ Antonym lazy
+
+| Đồng nghĩa | Trái nghĩa |
+| :--------- | :--------- |
+|            |            |
+
+::
+
+::: tab Meaning 🇻🇳 lazy
+
+Cửa hàng bách hoá
+
+:::
+
+::::
