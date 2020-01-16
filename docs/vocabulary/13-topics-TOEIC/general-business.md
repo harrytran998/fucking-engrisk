@@ -521,7 +521,7 @@ Ban giám đốc
 
 ::: tip Chém gió ☃️
 
-1.
+1. Nowadays, besides digital marketing like affiliate marketing, bottom-up marketing... I think we can using traditional marketing is interesting, like flyers, brochures.
 
 :::
 
@@ -549,7 +549,7 @@ Tờ rơi
 
 ::: tip Chém gió ☃️
 
-1.
+1. Nowadays, besides digital marketing like affiliate marketing, bottom-up marketing... I think we can using traditional marketing is interesting, like flyers, brochures.
 
 :::
 
@@ -577,7 +577,7 @@ Tờ gấp quảng cáo - Như của Capi Design
 
 ::: tip Chém gió ☃️
 
-1.
+1. You should eliminate to go to the department store because of the purpose of building it evokes your curiosity to buy more stuff!
 
 :::
 
@@ -591,7 +591,7 @@ Tờ gấp quảng cáo - Như của Capi Design
 
 ::: tab Meaning 🇻🇳 lazy
 
-Cửa hàng bách hoá
+Cửa hàng bách hoá | Trung tâm thương mại
 
 :::
 
