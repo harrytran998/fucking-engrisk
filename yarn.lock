@@ -5527,10 +5527,10 @@ markdown-it-emoji@^1.4.0:
   resolved "https://registry.yarnpkg.com/markdown-it-emoji/-/markdown-it-emoji-1.4.0.tgz#9bee0e9a990a963ba96df6980c4fddb05dfb4dcc"
   integrity sha1-m+4OmpkKljupbfaYDE/dsF37Tcw=
 
-markdown-it-multimd-table@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/markdown-it-multimd-table/-/markdown-it-multimd-table-4.0.0.tgz#76eb4e1fc40726eeca4fd97eef214349bea02e76"
-  integrity sha512-kdM3fH+/sRMfHQgD2CM1BcIpLNODUCuoiFr6TwS7mDJBYntVXDJxZbFwGDRflIc9ZzAfsUbr0lnHc6RbYafIsw==
+markdown-it-multimd-table@4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/markdown-it-multimd-table/-/markdown-it-multimd-table-4.0.1.tgz#71b8bc1bc6ab701286a87e3f05ef7bebd932a78e"
+  integrity sha512-ZgRV8LlGz6JXTZ5zd82yCL8IVG5MRastMWxxrc6hQC8aC8kq/7zpp+ksBqVqcdTmTdabnkuSo/7h3SyKM31YCA==
   dependencies:
     markdown-it "^8.4.2"
 
