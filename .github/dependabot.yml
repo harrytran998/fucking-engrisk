@@ -16,9 +16,9 @@ updates:
       - "dependencies"
       - "dependabot"
     commit-message:
-      - prefix: "npm"
-      - prefix-development: "chore"
-      - include: "scope"
+      prefix: "npm"
+      prefix-development: "chore"
+      include: "scope"
     assignees:
       - harrytran998
     reviewers:
