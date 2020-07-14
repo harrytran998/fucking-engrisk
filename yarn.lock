@@ -7558,9 +7558,9 @@ remark-lint-link-title-style@^1.0.0:
     vfile-location "^2.0.1"
 
 remark-lint-list-item-bullet-indent@^1.0.0:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-list-item-bullet-indent/-/remark-lint-list-item-bullet-indent-1.0.3.tgz#3b12b7360694508402e0056c7ecd0eedab2aaac1"
-  integrity sha512-iVxQbrgzLpMHG3C6o6wRta/+Bc96etOiBYJnh2zm/aWz6DJ7cGLDykngblP/C4he7LYSeWOD/8Y57HbXZwM2Og==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-list-item-bullet-indent/-/remark-lint-list-item-bullet-indent-1.0.4.tgz#dd9a0de0109674731e12be109a639b8135c517a1"
+  integrity sha512-SqhAmVFkeFQYP5I1qztCi2rfhLWwfSvia3DZ56sz9+h1pMqWIj3FmWRueY36xrnQo3LxsLljM5atI7AJBWxQEw==
   dependencies:
     plur "^3.0.0"
     unified-lint-rule "^1.0.0"
@@ -9312,9 +9312,9 @@ unified-engine@^8.0.0:
     vfile-statistics "^1.1.0"
 
 unified-lint-rule@^1.0.0:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/unified-lint-rule/-/unified-lint-rule-1.0.5.tgz#41dcac68a283bfc4b4ff6014e370cc8931eb4b5d"
-  integrity sha512-jOPr/fx8lTzqszEfh46p99jUMqgPlIZ8rNKllEepumISvgfj9lUq1c7BSpVihr0L1df3lkjVHAThRPS7dIyjYg==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/unified-lint-rule/-/unified-lint-rule-1.0.6.tgz#b4ab801ff93c251faa917a8d1c10241af030de84"
+  integrity sha512-YPK15YBFwnsVorDFG/u0cVVQN5G2a3V8zv5/N6KN3TCG+ajKtaALcy7u14DCSrJI+gZeyYquFL9cioJXOGXSvg==
   dependencies:
     wrapped "^1.0.1"
 
